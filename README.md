@@ -1,5 +1,10 @@
 # README
 
+This is the backend for the Quick Check &#9989; application.
+
+[https://teachers-aide.netlify.com/]: https://teachers-aide.netlify.com/
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
